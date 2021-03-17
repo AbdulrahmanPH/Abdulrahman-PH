@@ -1,0 +1,150 @@
+.dropdown .dropdown-item:active{
+	background-color: #dc3545!important;
+	color: #fff!important;
+}
+.dropdown .dropdown-item{
+	color: #000!important;
+}
+.dropdown .dropdown-item:hover{
+	background-color: #dc354517;
+}
+.active-warning:active{
+	background-color: #dc3545!important;
+}
+.active-warning:hover{
+	background-color: #dc354517;
+}
+.send-button{
+	background: #dc3545;
+	width:100%;
+	font-weight: 600;
+	color:#fff;
+	padding: 8px 25px;
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+	-webkit-appearance: none; 
+	margin: 0; 
+}
+.g-button{
+	color: #fff !important;
+	border: 1px solid #EA4335;
+	background:  #FE4A01!important;
+	width:100%;
+	font-weight: 600;
+	color:#fff;
+	padding: 8px 25px;
+}
+.g-button:hover{
+	background: #ea4335!important;
+}
+.my-input{
+	box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+	cursor: text;
+	padding: 8px 10px;
+	transition: border .1s linear;
+}
+.header-title{
+	margin: 5rem 0;
+}
+h1{
+	font-size: 31px;
+	line-height: 40px;
+	font-weight: 600;
+	color:#4c5357;
+}
+h2{
+	color: #5e8396;
+	font-size: 21px;
+	line-height: 32px;
+	font-weight: 400;
+}
+
+
+
+
+.rounded {
+    border-radius: 1rem
+}
+
+.nav-pills .nav-link {
+    color: #555
+}
+
+.nav-pills .nav-link.active {
+    color: white
+}
+
+input[type="radio"] {
+    margin-right: 5px
+}
+
+.bold {
+    font-weight: bold
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+	background-color: #dc3545!important;
+}
+
+
+
+/*---------------------------------------
+  Contact section              
+-----------------------------------------*/
+
+.contact-info .fa {
+  padding-right: 5px;
+}
+
+#contact .form-control {
+  border: none;
+  border-bottom: 2px solid #f0f0f0;
+  border-radius: 0px;
+  box-shadow: none;
+  font-size: 18px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  -webkit-transition: all ease-in-out 0.4s;
+  transition: all ease-in-out 0.4s;
+}
+
+#contact .form-control:focus {
+  border-bottom-color: #999999;
+}
+
+#contact input {
+  height: 55px;
+}
+
+#contact button#submit {
+  background: #2b2b2b;
+  border: none;
+  border-radius: 50px;
+  color: #ffffff;
+  height: 50px;
+  margin-top: 24px;
+}
+
+#contact button#submit:hover {
+  background: #7682cc;
+  color: #ffffff;
+}
+.fixed-top{
+	background-color: #dc3545!important;
+	color: #fff;
+	transition: 1s;
+}
+.fixed-top a{
+	color: #fff!important;
+	border-color:#fff!important;
+}
+.fixed-top .login:hover{
+	color: #dc3545!important;
+	background-color: #fff!important;
+}
+.shadow{
+	transition: box-shadow 0.3s
+}
+.shadow:hover{
+	box-shadow: 1px 1px 15px #0005!important;
+}
